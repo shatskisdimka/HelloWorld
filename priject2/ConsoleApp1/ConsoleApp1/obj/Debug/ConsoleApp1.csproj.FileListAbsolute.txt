@@ -1,0 +1,7 @@
+C:\Users\429196-27\Desktop\git\priject2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\429196-27\Desktop\git\priject2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\429196-27\Desktop\git\priject2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\429196-27\Desktop\git\priject2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\429196-27\Desktop\git\priject2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\429196-27\Desktop\git\priject2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\429196-27\Desktop\git\priject2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
